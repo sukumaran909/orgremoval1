@@ -1,0 +1,3 @@
+com.minatogithuborg.orgremoval1.config.ApplicationRepositoriesAutoConfiguration
+com.minatogithuborg.orgremoval1.config.ApplicationTransactionManagersAutoConfig
+com.minatogithuborg.orgremoval1.config.ApplicationProvidersAutoConfiguration
